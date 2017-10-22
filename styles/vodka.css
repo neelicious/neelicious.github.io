@@ -1,0 +1,12 @@
+nav{
+	background-color: maroon;
+}
+
+.navbar-brand.ron-title{
+	color: beige;
+}
+
+.nav-item .nav-link.nav-menu-item{
+	font-family: Helvetica;
+	color: beige;
+}
