@@ -1,0 +1,24 @@
+nav{
+	background-color: maroon;
+}
+
+.navbar-brand.ron-title{
+	color: beige;
+}
+
+.nav-item .nav-link.nav-menu-item{
+	font-family: Helvetica;
+	color: beige;
+}
+
+body{
+	background: url("../imgs/neelaminlondon.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+.title-text{
+	font-family: Helvetica;
+	color: beige;
+	position: relative;
+	top: 590px;
+}

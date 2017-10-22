@@ -1,0 +1,27 @@
+nav{
+	background-color: maroon;
+}
+
+.navbar-brand.ron-title{
+	color: beige;
+}
+
+.nav-item .nav-link.nav-menu-item{
+	font-family: Helvetica;
+	color: beige;
+}
+
+.header-color{
+	font-family: Helvetica;
+	color: maroon;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.crosskings{
+	border: maroon 5px dashed;
+	margin-top: 20px;
+	width: 400px;
+	float: left;
+	max-width: 100%;
+}
